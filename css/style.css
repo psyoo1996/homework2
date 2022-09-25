@@ -1,0 +1,12 @@
+.skip a {
+    position: absolute;
+    top: -40px;
+    z-index: 1;
+    color: black;
+}
+
+.skip a:focus {
+    position: absolute;
+    top: 0;
+    color: black;
+}
